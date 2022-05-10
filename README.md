@@ -16,9 +16,10 @@
 ![Git](https://img.shields.io/badge/Git-E34629?style=for-the-badge&logo=git&labelColor=FFFFFF)</br></br>
 
 ![Docker](https://img.shields.io/badge/Docker-0051FF?style=for-the-badge&logo=docker&labelColor=FFFFFF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1847AB?style=for-the-badge&logo=kubernetes&labelColor=FFFFFF)<br/>
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1847AB?style=for-the-badge&logo=kubernetes&labelColor=FFFFFF)<br/><br/><br/>
 
-Estoy aprendiendo 
+
+Estoy aprendiendo desde:Febrero 2022   --->   Mes - 2022
 
 ![Fedora](https://img.shields.io/badge/Fedora-008FFF?style=for-the-badge&logo=fedora&labelColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1C5513?style=for-the-badge&logo=mongodb&labelColor=FFFFFF)
