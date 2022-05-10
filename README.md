@@ -19,8 +19,11 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1847AB?style=for-the-badge&logo=kubernetes&labelColor=FFFFFF)<br/><br/><br/>
 
 
-Estoy aprendiendo desde:Febrero 2022   --->   Mes - 2022
+Estoy aprendiendo/practicando estas herramientas desde:Febrero 2022
 
 ![Fedora](https://img.shields.io/badge/Fedora-008FFF?style=for-the-badge&logo=fedora&labelColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1C5513?style=for-the-badge&logo=mongodb&labelColor=FFFFFF)
 ![AWS](https://img.shields.io/badge/Aws-FF7800?style=for-the-badge&logo=amazonaws&logoColor=FF7800&labelColor=FFFFFF)<br/>
+<br/>
+
+Hasta Hoy - 2022
