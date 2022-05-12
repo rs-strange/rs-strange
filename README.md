@@ -26,4 +26,11 @@ Estoy aprendiendo/practicando estas herramientas desde:Febrero 2022
 ![AWS](https://img.shields.io/badge/Aws-FF7800?style=for-the-badge&logo=amazonaws&logoColor=FF7800&labelColor=FFFFFF)<br/>
 <br/>
 
+Web - Frontend Nivel Basico
+
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&labelColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=2965f1&labelColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&labelColor=FFFFFF)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&labelColor=FFFFFF)<br/>
+
 Hasta Hoy - 2022
